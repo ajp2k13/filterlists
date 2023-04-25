@@ -1,0 +1,19 @@
+! Title: My Personal DNS Blocklist
+! Description: My personal blocklist for Adguard Home, things I find along the way worth blocking
+! Homepage: https://github.com/ajp2k13/filterlists/main/blocklist.txt
+! Issues: https://github.com/ajp2k13/filterlists/issues
+! Last modified: 25 Apr 2023 13:37 CET
+! Version: 2023.0425.1
+! Syntax: AdBlock
+!
+||graph.facebook.com^
+||graph.instagram.com^
+||i.instagram.com^
+||b-graph.facebook.com^
+||connect.facebook.net^
+
+||graph.facebook.com^
+||graph.instagram.com^
+||i.instagram.com^
+||b-graph.facebook.com^
+||connect.facebook.net^
