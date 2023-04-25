@@ -1,0 +1,20 @@
+! Title: Jesper's Personal DNS Allowlist
+! Description: My personal allowlist for Adguard Home, things I find along the way worth allowing
+! Homepage: https://github.com/ajp2k13/filterlists/main/blocklist.txt
+! Issues: https://github.com/ajp2k13/filterlists/issues
+! Last modified: 25 Apr 2023 13:37 CET
+! Version: 2023.0425.1
+! Syntax: AdBlock
+!
+@@||one.com^$important
+@@||login.schibsted.com^$important
+@@||libreddit.eu.org^$important
+@@||vod.provider.plex.tv^$important
+@@||epg.provider.plex.tv^$important
+@@||api.tv.comhem.se^$important
+@@||cdn.tv.comhem.se^$important
+@@||vcdn.tv.comhem.se^$important
+@@||xp.apple.com^$important
+@@||smoot.apple.com^$important
+@@||amp-api-edge.apps.apple.com^$important
+@@||amp-api-search-edge.apps.apple.com^$important
