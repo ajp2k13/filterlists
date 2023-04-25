@@ -12,8 +12,3 @@
 ||b-graph.facebook.com^
 ||connect.facebook.net^
 
-||graph.facebook.com^
-||graph.instagram.com^
-||i.instagram.com^
-||b-graph.facebook.com^
-||connect.facebook.net^
