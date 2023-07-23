@@ -8,7 +8,6 @@
 !
 @@||one.com^$important
 @@||login.schibsted.com^$important
-@@||libreddit.eu.org^$important
 @@||vod.provider.plex.tv^$important
 @@||epg.provider.plex.tv^$important
 @@||api.tv.comhem.se^$important
