@@ -1,4 +1,4 @@
-! Title: Jesper's Personal DNS Allowlist
+! Title: My Personal DNS Allowlist
 ! Description: My personal allowlist for Adguard Home, things I find along the way worth allowing
 ! Homepage: https://github.com/ajp2k13/filterlists/main/blocklist.txt
 ! Issues: https://github.com/ajp2k13/filterlists/issues
