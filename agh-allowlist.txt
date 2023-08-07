@@ -13,6 +13,7 @@
 @@||api.tv.comhem.se^$important
 @@||cdn.tv.comhem.se^$important
 @@||vcdn.tv.comhem.se^$important
+@@||mcdn.tv.comhem.se^$important
 @@||xp.apple.com^$important
 @@||smoot.apple.com^$important
 @@||amp-api-edge.apps.apple.com^$important
