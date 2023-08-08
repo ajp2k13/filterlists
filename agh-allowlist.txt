@@ -18,3 +18,4 @@
 @@||smoot.apple.com^$important
 @@||amp-api-edge.apps.apple.com^$important
 @@||amp-api-search-edge.apps.apple.com^$important
+@@||mage.space^$important
