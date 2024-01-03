@@ -2,17 +2,22 @@
 ! Description: My personal blocklist for Adguard Home, things I find along the way worth blocking
 ! Homepage: https://github.com/ajp2k13/filterlists/main/blocklist.txt
 ! Issues: https://github.com/ajp2k13/filterlists/issues
-! Last modified: 17 May 2023 15:25 CET
-! Version: 2023.0517.1
+! Last modified: 3 Jan 2024 09:30 CET
+! Version: 2024.0103.1
 ! Syntax: AdBlock
 !
-||b-graph.facebook.com^
-||b-graph-fallback.facebook.com^
-||connect.facebook.com^
-||connect.facebook.net^
-||graph.facebook.com^
-||graph-fallback.facebook.com^
-||z-m-graph.facebook.com^
-||graph.instagram.com^
-||graph-fallback.instagram.com^
-||graph.fbpigeon.com^
+||b-graph.facebook.com
+||b-graph-fallback.facebook.com
+||star.fallback.c10r.facebook.com
+||star.c10r.facebook.com
+||connect.facebook.com
+||connect.facebook.net
+||graph.facebook.com
+||graph-fallback.facebook.com
+||z-m-graph.facebook.com
+||graph.fbpigeon.com
+||graph.instagram.com
+||graph-fallback.instagram.com
+||graph.whatsapp.com
+||graph.whatsapp.net
+||mqtt-mini.facebook.com
